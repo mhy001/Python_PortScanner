@@ -4,4 +4,6 @@ Violent Python by TJ O'Connor
 Chapter 2
 Python 3.x
 
-A simple port scanner.
+portScan.py: A simple port scanner.
+portScan-nmap.py: A simple port scanner utilizing nmap.
+Require NMAP (http://xael.org/norman/python/python-nmap)
